@@ -1,12 +1,12 @@
-Titanic Survival Prediction Project
+# Titanic Survival Prediction Project
 
-Overview
+## Overview
 
 
 This project aims to analyze the Titanic dataset, exploring factors influencing survival and building a logistic regression model for survival prediction. 
 The dataset contains information about passengers, such as age, sex, class, and ticket fare.
 
-Project Structure
+## Project Structure
 
 
 Code: The project code is organized into an R script. The code covers data cleaning, exploration, visualization, logistic regression modeling, and dominance analysis.
@@ -25,7 +25,7 @@ kableExtra,
 gtsummary
 
 
-Steps
+## Steps
 1. Installing Packages:
       Install required R packages for analysis.
 2. Downloading Data:
@@ -48,7 +48,7 @@ Steps
       Summarize key findings and insights from the analysis. 
 
 
-How to Use
+## How to Use
 
 1. Install R:
       Make sure you have R installed on your system.
@@ -58,7 +58,7 @@ How to Use
       Execute the R script step by step to perform the analysis.
 
 
-Additional Notes
+## Additional Notes
 
 Documentation:
 The code contains comments for clarity and explanation. The Lab report further explains the steps and discusses the analysis and findings.
